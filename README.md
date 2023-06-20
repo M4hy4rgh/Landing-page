@@ -1,3 +1,3 @@
 # Landing-page
 
-Here I am practicing HTML by utilizing the Flexbox concept.
+Developing a landing page by utilizing the Flexbox concept.
